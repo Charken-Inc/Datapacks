@@ -1,0 +1,2 @@
+function sword_blocking:toggle
+function sword_blocking:blocking

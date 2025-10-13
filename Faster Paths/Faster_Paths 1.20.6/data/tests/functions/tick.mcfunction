@@ -1,0 +1,1 @@
+execute as @a if predicate tests:some run effect give @s speed 1 2 true

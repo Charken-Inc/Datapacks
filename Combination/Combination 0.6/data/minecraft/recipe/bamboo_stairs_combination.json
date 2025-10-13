@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": "minecraft:bamboo_stairs"
+    },
+    "result": {
+        "id": "minecraft:bamboo_planks",
+        "count": 3
+    }
+}

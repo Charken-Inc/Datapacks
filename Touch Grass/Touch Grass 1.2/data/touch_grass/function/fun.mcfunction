@@ -1,0 +1,1 @@
+execute as @a if predicate touch_grass:fun run damage @s 100

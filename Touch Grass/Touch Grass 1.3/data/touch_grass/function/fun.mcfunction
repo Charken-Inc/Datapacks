@@ -1,0 +1,1 @@
+execute as @a at @s if predicate touch_grass:fun run damage @s 40 magic

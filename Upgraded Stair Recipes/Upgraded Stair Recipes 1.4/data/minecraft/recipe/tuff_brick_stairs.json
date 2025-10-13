@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# ",
+        "##"
+    ],
+    "key": {
+        "#": "minecraft:tuff_bricks"
+    },
+    "result": {
+        "id": "minecraft:tuff_brick_stairs",
+        "count": 4
+    }
+}

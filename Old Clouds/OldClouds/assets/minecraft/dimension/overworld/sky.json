@@ -1,0 +1,15 @@
+{
+  "sky": {
+    "layers": [
+      {
+        "texture": "minecraft:textures/environment/clouds.png",
+        "alpha": 1.0,
+        "rotation": 0.0,
+        "scale": 0.5,
+        "translation": [0.0, 0.3],
+        "speed": [0.005, 0.0],
+        "blend": "add"
+      }
+    ]
+  }
+}

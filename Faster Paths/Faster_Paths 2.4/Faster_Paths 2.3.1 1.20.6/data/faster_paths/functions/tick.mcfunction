@@ -1,0 +1,1 @@
+execute as @a if predicate faster_paths:fast run effect give @s speed 1 1 true

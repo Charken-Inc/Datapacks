@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "#",
+      "#",
+      "$"
+    ],
+    "key": {
+      "#": [
+        "minecraft:cobblestone"
+      ],
+      "$": [
+        "minecraft:stick"
+      ]
+    },
+    "result": {
+      "id": "minecraft:stone_sword",
+      "components": {
+        "minecraft:blocks_attacks": {}
+      },
+      "count": 1
+    }
+  }

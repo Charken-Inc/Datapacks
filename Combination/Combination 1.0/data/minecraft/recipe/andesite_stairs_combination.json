@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": "minecraft:andesite_stairs"
+    },
+    "result": {
+        "id": "minecraft:andesite",
+        "count": 3
+    }
+}

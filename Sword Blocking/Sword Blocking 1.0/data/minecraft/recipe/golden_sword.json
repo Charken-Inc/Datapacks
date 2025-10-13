@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "#",
+      "#",
+      "$"
+    ],
+    "key": {
+      "#": [
+        "minecraft:gold_ingot"
+      ],
+      "$": [
+        "minecraft:stick"
+      ]
+    },
+    "result": {
+      "id": "minecraft:golden_sword",
+      "components": {
+        "minecraft:blocks_attacks": {}
+      },
+      "count": 1
+    }
+  }

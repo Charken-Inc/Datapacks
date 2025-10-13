@@ -1,0 +1,2 @@
+# this is just so it doesn't break when in older versions than 1.21.9
+execute as @a[scores={sword_blocking=0}] if data entity @s SelectedItem{id:"minecraft:copper_sword"} unless data entity @s SelectedItem.components.minecraft:custom_data run item replace entity @s weapon.mainhand with minecraft:copper_sword[blocks_attacks={damage_reductions:[{types:["mob_attack"],base:0,factor:0.9}],item_damage:{threshold:0,base:1,factor:1}},custom_data={set:1b}]

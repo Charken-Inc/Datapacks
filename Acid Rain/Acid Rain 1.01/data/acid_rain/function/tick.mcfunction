@@ -1,0 +1,3 @@
+function acid_rain:acid_rain_function
+function acid_rain:acid_rain_damage
+function acid_rain:reset_tag

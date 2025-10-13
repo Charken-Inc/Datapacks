@@ -1,0 +1,1 @@
+tellraw @a {"text": "Faster Paths 1.20.6 Loaded", "color": "#0000FF"}

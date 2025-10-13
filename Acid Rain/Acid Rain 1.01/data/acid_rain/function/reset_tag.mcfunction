@@ -1,0 +1,1 @@
+execute as @a at @s run tag @a[tag=under_block] remove under_block

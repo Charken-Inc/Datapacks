@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# ",
+        "##"
+    ],
+    "key": {
+        "#": "minecraft:quartz_block"
+    },
+    "result": {
+        "id": "minecraft:quartz_stairs",
+        "count": 4
+    }
+}

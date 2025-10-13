@@ -1,0 +1,3 @@
+This is a datapack that is like a modpack the two datapacks are
+https://modrinth.com/datapack/upgraded-stair-recipes
+https://modrinth.com/datapack/faster-paths
